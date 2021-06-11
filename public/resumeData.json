@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Dhanjit Deka",
+    "occupation": "Web developer",
+    "description": "Chasing the Unknown",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Dhanjit!. I've been coding for over 2 years now. As a Frontend developer I've worked on many projects using HTML,CSS,TAILWIND CSS,BOOTSTRAP,JAVASCRIPT,JQuery,REACT,REDUX,APIs and FIREBASE. Along the journey I realised my passion existed in learning new things each and everyday,making myself a better developer so that one day I can do something that will impact the world. With this passion, I want to help my clients get the best service from me. I am looking for internships so that I can get hands-on experience and learn the skills that are required to succeed in the real-world and also in return deliver REAL VALUE.",
+    "contactmessage": "Get in touch with me",
+    "email": "dhanjit1951@gmail.com",
+    "phone": "+91 8638231452",
+    "address": {
+      "street": "",
+      "city": "Guwahati",
+      "state": "Assam",
+      "zip": "781029"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhanjit-deka-b77474207/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Dhanjitdeka",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Technical Proficiency",
+    "education": [
+      {
+        "school": "Dayanand Sagar Academy of Technology & Management",
+        "degree": "BTECH, Information Science",
+        "graduated": "July 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "College Student",
+        "title": "Frontend Web Developer",
+        "years": "Aug 2019 - Present",
+        "description": "Looking for Internships to develop some Real-World Experience"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html5",
+        "level": "60%"
+      },
+      {
+        "name": "CSS3",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "40%"
+      },
+      {
+        "name": "TailwindCss",
+        "level": "40%"
+      },
+      {
+        "name": "Javascript",
+        "level": "40%"
+      },
+      {
+        "name": "JQuery",
+        "level": "20%"
+      },
+
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Firebase",
+        "level": "20%"
+      },
+
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone",
+        "category": "ReactJs,Redux",
+        "image": "snapchat.jpg",
+        "url": "https://snapchat-clone-65691.web.app/"
+      },
+      {
+        "title": "Parallax Website",
+        "category": "Html,Css,Js,Animation",
+        "image": "parallax.png",
+        "url": "https://dhanjitdeka.github.io/Parallax-Website.github.io/"
+      },
+      {
+        "title": "Netflix Landing page",
+        "category": "Html,Css and Js",
+        "image": "netflix.jpg",
+        "url": "https://dhanjitdeka.github.io/Netflix-landingpage.github.io/"
+      },
+      {
+        "title": "Basic Music Player(using vanilla Js)",
+        "category": "Vanilla Js",
+        "image": "musicplayer.png",
+        "url": "https://dhanjitdeka.github.io/Basic-Music-Player.github.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
